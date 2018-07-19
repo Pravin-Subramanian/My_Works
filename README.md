@@ -3,10 +3,10 @@ The codes are implement to communicate Server and Client in Unidirectional Way. 
 
 To implement it, open 4 terminals and in each terminal write
 
-1)gcc Server.c -o Server
-2)gcc Proxy1.c -o Proxy1
-3)gcc Proxy2.c -o Proxy2
-4)gcc Client.c -o Client
+1)gcc Server.c -o Server  
+2)gcc Proxy1.c -o Proxy1 
+3)gcc Proxy2.c -o Proxy2 
+4)gcc Client.c -o Client 
 
 The order of execution in the terminals are
 
